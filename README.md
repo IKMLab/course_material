@@ -18,7 +18,7 @@
 1. 安裝**相關套件**
 
 ```
-pip install -r requirements
+pip3 install -r requirements
 ```
 
 2. 安裝 [**PyTorch**](https://pytorch.org/get-started/locally/#start-locally)
