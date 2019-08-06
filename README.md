@@ -38,12 +38,12 @@ pip3 install https://download.pytorch.org/whl/cpu/torchvision-0.3.0-cp36-cp36m-l
 
 # 教材列表
 ## 語法教學
-- [python-入門語法](./blob/master/python-入門語法.ipynb)
-- [numpy-基本功能](./blob/master/numpy-基本功能.ipynb)
-- [pandas-基本功能](./blob/master/pandas-基本功能.ipynb)
-- [matplotlib-資料視覺化](./blob/master/matplotlib-資料視覺化.ipynb)
-- [PyTorch-基本操作](./blob/master/PyTorch-基本操作.ipynb)
+- [python-入門語法](./python-入門語法.ipynb)
+- [numpy-基本功能](./numpy-基本功能.ipynb)
+- [pandas-基本功能](./pandas-基本功能.ipynb)
+- [matplotlib-資料視覺化](./matplotlib-資料視覺化.ipynb)
+- [PyTorch-基本操作](./PyTorch-基本操作.ipynb)
 
 ## 模型範例
-- [CNN-手寫字辨識實作](./blob/master/CNN-手寫字辨識實作.ipynb)
-- [char-RNN-文本生成](./blob/master/char-RNN-文本生成.ipynb)
+- [CNN-手寫字辨識實作](./CNN-手寫字辨識實作.ipynb)
+- [char-RNN-文本生成](./char-RNN-文本生成.ipynb)
