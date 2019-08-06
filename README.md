@@ -15,6 +15,12 @@
     - pip 版本: `19+`
 
 # 安裝
+0. 下載程式碼
+
+```
+git clone https://github.com/IKMLab/course_material.git
+```
+
 1. 安裝**相關套件**
 
 ```
