@@ -15,7 +15,7 @@
     - 發行商版本: `Ubuntu 18.04.2 LTS (Bionic Beaver)`
 2. python 執行環境
     - 版本: `3.6+`
-    - pip 版本: `19+`
+    - `pip` 版本: `19+`
 
 ## 安裝
 
@@ -35,28 +35,24 @@ pip3 install -r requirements
 
 |選項|描述|選擇|
 |-|-|-|
-|PyTorch Build|請選**穩定版**避免未知錯誤|`Stable(1.1)`|
+|PyTorch Build|請選**穩定版**避免未知錯誤|`Stable(1.4)`|
 |Your OS|依照**作業系統**來選擇|`Linux`|
 |Package|安裝 **PyTorch** 使用的方法|`Pip`|
 |Language|當前執行 **Python** 版本|`Python 3.6`|
-|CUDA|電腦上是否有 **GPU** 且支援 **CUDA 架構**|`None`|
+|CUDA|電腦上是否有 **GPU** 且支援 **CUDA 架構**|`10.1`|
 
 ```sh
-pip3 install https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
-pip3 install https://download.pytorch.org/whl/cpu/torchvision-0.3.0-cp36-cp36m-linux_x86_64.whl
+pip install torch torchvision
 ```
 
-## 教材列表
+如果沒有 GPU，可以考慮使用 [kaggle](https://www.kaggle.com/) 或 [CodeLabs](https://codelabs.developers.google.com/) 等服務。
 
-### 語法教學
+## 教材列表
 
 - [python-入門語法](./python-入門語法.ipynb)
 - [numpy-基本功能](./numpy-基本功能.ipynb)
 - [pandas-基本功能](./pandas-基本功能.ipynb)
 - [matplotlib-資料視覺化](./matplotlib-資料視覺化.ipynb)
 - [PyTorch-基本操作](./PyTorch-基本操作.ipynb)
-
-### 模型範例
-
 - [CNN-手寫字辨識實作](./CNN-手寫字辨識實作.ipynb)
 - [char-RNN-文本生成](./char-RNN-文本生成.ipynb)
