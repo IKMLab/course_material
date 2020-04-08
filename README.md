@@ -45,7 +45,7 @@ pip3 install -r requirements
 pip install torch torchvision
 ```
 
-如果沒有 GPU，可以考慮使用 [kaggle](https://www.kaggle.com/) 或 [CodeLabs](https://codelabs.developers.google.com/) 等服務。
+如果沒有 GPU，可以考慮使用 [kaggle](https://www.kaggle.com/) 或 [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) 等服務。
 
 ## 教材列表
 
