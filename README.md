@@ -53,6 +53,7 @@ pip install torch torchvision
 - [numpy-基本功能](./numpy-基本功能.ipynb)
 - [pandas-基本功能](./pandas-基本功能.ipynb)
 - [matplotlib-資料視覺化](./matplotlib-資料視覺化.ipynb)
-- [PyTorch-基本操作](./PyTorch-基本操作.ipynb)
+- [scikit-learn-基本功能](./scikit-learn-基本功能.ipynb)
+- [PyTorch-基本功能](./PyTorch-基本功能.ipynb)
 - [CNN-手寫字辨識實作](./CNN-手寫字辨識實作.ipynb)
 - [char-RNN-文本生成](./char-RNN-文本生成.ipynb)
