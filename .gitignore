@@ -2,6 +2,9 @@
 .vscode
 *.swap
 
+# old_materials
+python-入門語法_2022.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
